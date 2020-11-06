@@ -1,0 +1,22 @@
+Body{
+    background-color: #87CEEB;
+
+}
+/* Estilo dos icones */
+.icon-facebook {
+    position: fixed;
+    width: 60px;
+    height: 60px ;
+    bottom: 40px;
+    right: 40px;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #8888;
+    z-index: 1000;
+  }
+  
+  
+  
